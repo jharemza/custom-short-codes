@@ -13,8 +13,8 @@ A collection of useful WordPress shortcode functions.
 7. Navigate to and select the zip file you created in step 2.
 8. Click the `Install Now` button.
 9. After the install completes, click `Activate`.
-10. Enjoy your shrty codes. 🥳
+10. Enjoy your shorty codes. 🥳
 
 ## The Great and Wonderful USDA Prime Cut List of Shorty Codes
 
-- `[page_title]` - Lets you place the page title anywhere.
+- `[page_title]` - Let's you place the page title anywhere.
