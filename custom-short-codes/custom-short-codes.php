@@ -3,7 +3,7 @@
 Plugin Name:  Custom Short Codes
 Plugin URI:   https://github.com/jharemza/custom-short-codes
 Description:  A collection of custom short codes for WordPress.
-Version:      1.0.1
+Version:      1.1.2
 Author:       Jeremiah Haremza
 Author URI:   https://github.com/jharemza
 License:      GPL2
@@ -15,7 +15,7 @@ Domain Path:  /languages
 # Use shortcode [page_title] to retrieve the title of a page/post programatically.
 function getPageTitle() {
   global $wp_query;
-  return get_post_title($wp_query->post->ID);
+  return get_the_title($wp_query->post->ID);
 }
 add_shortcode('page_title','getPageTitle');
 
