@@ -3,7 +3,7 @@
 Plugin Name:  Custom Short Codes
 Plugin URI:   https://github.com/jharemza/custom-short-codes
 Description:  A collection of custom short codes for WordPress.
-Version:      1.1.4
+Version:      1.2.1
 Author:       Jeremiah Haremza
 Author URI:   https://github.com/jharemza
 License:      GPL2
